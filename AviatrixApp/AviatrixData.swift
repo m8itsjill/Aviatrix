@@ -10,6 +10,7 @@ import Foundation
 
 class AviatrixData {
     
+    
     var fuelPrices = [
         "St. Louis" : 1.79,
         "Phoenix" : 1.84,
@@ -45,4 +46,5 @@ class AviatrixData {
     ]
     
 }
+
 
